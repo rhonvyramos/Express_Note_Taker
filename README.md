@@ -7,4 +7,3 @@ Run npm start in an integrated terminal then follow the localhost link provided.
 
 ## Usage
 Users can input notes that can be saved or deleted. These changes will be reflected onto a server and will be kept for future use.
-# Express_Note_Taker
